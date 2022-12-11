@@ -1,7 +1,4 @@
 <Project Sdk="Microsoft.NET.Sdk">
-    <Target Name="HelloWorld">
-        <Message Text="Hello"></Message>  <Message Text="World"></Message>
-    </Target>
 
 	<Import Project="..\Smartstore.Build\Smartstore.Common.props" />
 
